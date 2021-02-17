@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Cats in Ancient Egypt"
+date: 2020-02-16 23:45:13 -0400
+background: '/img/posts/egypt.jpg'
+subtitle: "Disclaimer: I hate cats!"
+---
+
+<p>Cats were praised for killing venomous snakes and protecting the Pharaoh since at least the First Dynasty of Egypt.
+Cat cemeteries at sites such as: Speos Artemidos, Bubastis and Saqqara were used for several centuries. They contained vast numbers of cat mummies and cat statues that are exhibited in museum collections around the world.</p>
+
+
+
+<p>For those of ancient Egypt mummies were very important. It was thought to ready yourself for the underworld. Cats and crocodiles are just some of the animals that were mummified and entombed. </p>
+
+<h2 class="section-heading">Legends</h2>
+
+<p>In the 2nd century there is an account that during a battle with the ancient egyptians the Persians placed cats and other venerated animals on the front lines and was able to defeat the Egytians. The Egytians would not fight risks harm to the cats. </p>
+
+
+<blockquote class="blockquote">"You will always be lucky if you know how to make friends with strange cats." -Ancient porverb</blockquote>

@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: "Why Cats Are Better Than Dogs!"
+date: 2020-01-29 23:45:13 -0400
+background: '/img/posts/04.jpg'
+subtitle: "Cats are far superior to all other animals on the face of the planet!"
+---
+
+<p>There are over 500 million domestic cats in the wolrd. This makes cats one of the most popular pets in the world. </p>
+
+<p>Cats conserve energy by sleeping 13-14 hours a day, and you thought they were just lazy! Cats and humans have been associated for over 10,000 years.
+</p>
+
+
+
+<h2 class="section-heading">They are self-suffecient</h2>
+
+<p>There can be no question that training a pet can be full time job, but not if you have a cat. They do not do tricks, so do not bother trying to teach them. They do not need you to give them a bath, they will take care of that for you!
+</p>
+
+
+
+<blockquote class="blockquote">“Time spent with cats is never wasted.” – Sigmund Freud.</blockquote>
+
+<p>Some folks believe cats are aliens that are sent here to spy on humans. If you've ever woke up to a cat giving you a stare down you may be inclined to believe this a little bit more!
+</p>
+
+<h2 class="section-heading">No Potty Training Necessary</h2>
+
+<p>No puppy pads needed. One can simply set out a litter box and your little four legged genuis will know what to do. Show me a puppy that can do the same.
+</p>

@@ -1,0 +1,26 @@
+title:              The Crazy Cat Lady
+email:              kefox@lcmail.lcsc.edu
+description:        A Blog all about our furry feline friends!
+author:             Karon Fox
+
+url:                "https://crazycatlady.com"
+
+# Social Profiles
+twitter_username:   twitterSucks
+github_username:    Karon-alt's
+facebook_username:  StartBootstrap
+instagram_username:  instaSucksWorse
+linkedin_username:   noneForMe
+email_username:      kefox@lcmail.lcsc.edu
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
